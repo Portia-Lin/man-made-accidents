@@ -2,7 +2,7 @@
   LoRa receiver <RA-02>
   
   Github:   Portia-Lin
-  https://github.com/Portia-Lin/loraReceiver
+  https://github.com/Portia-Lin/man-made-accidents/blob/master/Receiver/Receiver.ino
 */
 
 #include <ArduinoJson.h>
