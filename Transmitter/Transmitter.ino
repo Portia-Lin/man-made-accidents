@@ -1,3 +1,10 @@
+/*
+  LoRa еransmitter <RA-02>
+  
+  Github:   Portia-Lin
+  https://github.com/Portia-Lin/man-made-accidents/blob/master/Transmitter/Transmitter.ino
+*/
+
 #include <SPI.h>
 #include <LoRa.h>
 
