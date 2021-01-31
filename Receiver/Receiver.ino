@@ -17,7 +17,7 @@
 #define LORA_CS 10
 #define LORA_RST 9
 #define LORA_DIO 2
-#define BUTTON 3 // default: D5
+#define BUTTON 5 // default: D5
 #define BUZZER 4
 
 byte localAddress = 0xAA;
